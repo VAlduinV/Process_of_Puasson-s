@@ -3,6 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&weight=800&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=100&lines=Puasson's)](https://git.io/typing-svg)
 
 
+<p align="center">
+  <img src="myplot.png" alt="Puasson's">
+</p>
+
 <div>
 <h1>Процес Пуассона</h1>
 <p>Код створює об'єктно-орієнтовану реалізацію процесу Пуассона в Python і 
